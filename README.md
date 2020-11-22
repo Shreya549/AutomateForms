@@ -8,7 +8,8 @@ $ python forms.py
 ```
 
 #### Note
-- This script currently works for this [Survey Form](https://docs.google.com/forms/d/e/1FAIpQLSdF5S7wsRSfwWODm5761WAZJaGgZ28WhFQhM0DE0gW73gH1jw/viewform)
+- The `forms.py` script currently works for this [Survey Form](https://docs.google.com/forms/d/e/1FAIpQLSdF5S7wsRSfwWODm5761WAZJaGgZ28WhFQhM0DE0gW73gH1jw/viewform)
+- The `mental_health.py` script works for this [Survey Form](https://docs.google.com/forms/d/1B3MLUQq6zgx1ruUf-0J3jjlDjwP1Py-oQQ5l2RsNwjg/viewform?edit_requested=true)
 - The script can be modified to fill any form containing radio buttons
 - Currently the script fills up the form 10 times which can be modified as well
 
